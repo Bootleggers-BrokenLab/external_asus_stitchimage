@@ -1,5 +1,6 @@
 android_app {
     name: "StitchImage-sceditor",
+    platform_apis: true,
     resource_dirs: ["res"],
     dex_preopt: {
         enabled: false,
